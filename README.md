@@ -1,7 +1,5 @@
 ## Olá eu sou o Johnatan Cardozo!
 
-Here are some ideas to get you started:
-
 - 🌱 Estudando JavaScript e HTML/CSS
 
 ![Johnatan Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnatanMoreira1&show_icons=true&theme=midnight-purple)
