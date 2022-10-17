@@ -18,5 +18,5 @@
 
      Sempre em busca de conhecimento e com sede de crescimento!
      </div>
-     ![snake gif](https://github.com/JohnatanMoreira1/JohnatanMoreira1/blob/output/github-contribution-grid-snake.svg)
+     ![snake_gif](https://github.com/JohnatanMoreira1/JohnatanMoreira1/blob/output/github-contribution-grid-snake.svg)
 
